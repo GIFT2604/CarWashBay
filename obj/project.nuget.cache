@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Zay6A1UqdI=",
+  "success": true,
+  "projectFilePath": "B:\\DCAssignments_Intern_Move\\CarWashBay\\CarWashBay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FAS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

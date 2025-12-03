@@ -1,0 +1,14 @@
+B:\DCAssignments_Intern_Move\CarWashBay\bin\Debug\net8.0\CarWashBay.exe
+B:\DCAssignments_Intern_Move\CarWashBay\bin\Debug\net8.0\CarWashBay.deps.json
+B:\DCAssignments_Intern_Move\CarWashBay\bin\Debug\net8.0\CarWashBay.runtimeconfig.json
+B:\DCAssignments_Intern_Move\CarWashBay\bin\Debug\net8.0\CarWashBay.dll
+B:\DCAssignments_Intern_Move\CarWashBay\bin\Debug\net8.0\CarWashBay.pdb
+B:\DCAssignments_Intern_Move\CarWashBay\obj\Debug\net8.0\CarWashBay.GeneratedMSBuildEditorConfig.editorconfig
+B:\DCAssignments_Intern_Move\CarWashBay\obj\Debug\net8.0\CarWashBay.AssemblyInfoInputs.cache
+B:\DCAssignments_Intern_Move\CarWashBay\obj\Debug\net8.0\CarWashBay.AssemblyInfo.cs
+B:\DCAssignments_Intern_Move\CarWashBay\obj\Debug\net8.0\CarWashBay.csproj.CoreCompileInputs.cache
+B:\DCAssignments_Intern_Move\CarWashBay\obj\Debug\net8.0\CarWashBay.dll
+B:\DCAssignments_Intern_Move\CarWashBay\obj\Debug\net8.0\refint\CarWashBay.dll
+B:\DCAssignments_Intern_Move\CarWashBay\obj\Debug\net8.0\CarWashBay.pdb
+B:\DCAssignments_Intern_Move\CarWashBay\obj\Debug\net8.0\CarWashBay.genruntimeconfig.cache
+B:\DCAssignments_Intern_Move\CarWashBay\obj\Debug\net8.0\ref\CarWashBay.dll
